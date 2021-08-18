@@ -1,24 +1,18 @@
-# README
+# Blog App
+Created as part of [The Odin Project](https://www.theodinproject.com) curriculum.
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+View on [Github](https://github.com/harmolipi/blog_app)
 
-Things you may want to cover:
+### Functionality
 
-* Ruby version
+This is the [Blog App](https://www.theodinproject.com/paths/full-stack-ruby-on-rails/courses/ruby-on-rails/lessons/ruby-on-rails-ruby-on-rails) project, where I put together the very rudimentary functionality of a blog.
 
-* System dependencies
+### Thoughts
 
-* Configuration
+After a lot of reading about Ruby on Rails, this was my first Rails app! It was exciting to finally get to jump in and see how the different parts of the MVC work together. It's all new to me, so I can't say I've fully grasped it all 100%, nor could I replicate the entire app from memory, but I definitely understand more than I did before, and I definitely was able to observe Rails' "convention over configuration" approach in action. It was really nifty, and impressive how much you can do with Ruby, allowing it to handle things like the creation of HTML forms and all interfacing with the database.
 
-* Database creation
+I'm looking forward to doing more, and really hope that there are enough practice projects and exercises in this curriculum to really help drive these concepts home for me.
 
-* Database initialization
+God bless.
 
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+-Niko Birbilis
