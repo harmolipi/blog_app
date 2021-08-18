@@ -1,7 +1,7 @@
 # Blog App
 Created as part of [The Odin Project](https://www.theodinproject.com) curriculum.
 
-View on [Github](https://github.com/harmolipi/blog_app)
+View code on [Github](https://github.com/harmolipi/blog_app) and the live preview on [Heroku](https://warm-dusk-33597.herokuapp.com/).
 
 ### Functionality
 
